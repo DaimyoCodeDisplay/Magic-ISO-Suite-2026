@@ -1,0 +1,23 @@
+{
+  "repo": "magic-iso-suite-2026",
+  "product": "Magic ISO Suite 2026",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "magic-iso-suite",
+    "magic-windows",
+    "system-tools-desktop",
+    "how-to-install-magic",
+    "magic-iso-suite-desktop-package",
+    "magic-workspace",
+    "magic-2026",
+    "magic-iso-suite-pro-tools",
+    "magic-suite",
+    "zentool-magic"
+  ],
+  "site": "zentool.art"
+}
